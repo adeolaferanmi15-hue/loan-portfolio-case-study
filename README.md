@@ -44,19 +44,19 @@ The dashboard was designed as a guided investigation across three analytical vie
 
 The portfolio demonstrates steady growth supported by consistent income generation. Most loans remain active, indicating strong engagement and repayment activity. However, performance is not uniform — risk levels vary across segments and regions, signaling the need for targeted monitoring.
 ![Executive Overview](executive_overview.png)
-This view establishes the central narrative: growth is strong, but risk distribution is uneven.
+                            This view establishes the central narrative: growth is strong, but risk distribution is uneven.
 
 ### Portfolio Performance — What drives growth and stability?
 
 Loan disbursement trends show consistent expansion, accompanied by rising interest income. Business loans contribute the largest share of portfolio value, positioning them as a primary growth driver. Education loans, meanwhile, display lower risk exposure, highlighting them as stable lending segments.
 ![Portfolio Performance](portfolio_performance.png)
-The portfolio is expanding with momentum — but performance differs by loan type, shaping where strategic focus should lie.
+        The portfolio is expanding with momentum — but performance differs by loan type, shaping where strategic focus should lie.
 
 ### Risk and Regional Analysis — Where are the vulnerabilities?
 
 Risk concentration becomes clearer when viewed across segments and geography. Personal loans exhibit higher risk exposure, while regional patterns reveal variation in credit quality. Some regions maintain stronger repayment behavior, while others require closer monitoring.
 ![Risk and Regional Analysis](risk_regional.png)
-This analysis reveals that risk is not widespread — it is concentrated and manageable when identified early.
+              This analysis reveals that risk is not widespread — it is concentrated and manageable when identified early.
 
 ## What the Data Suggests
 
