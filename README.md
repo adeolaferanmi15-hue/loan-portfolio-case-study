@@ -4,7 +4,7 @@
  
 ## The Story Behind the Analysis
 
-Lending institutions grow when loans perform — but growth without risk control can quietly weaken a portfolio. This project explores how a loan portfolio is performing over time, where risks are concentrated, and what actions can support sustainable expansion.
+Lending institutions grow when loans perform but growth without risk control can quietly weaken a portfolio. This project explores how a loan portfolio is performing over time, where risks are concentrated, and what actions can support sustainable expansion.
 
 Using cleaned loan data visualized in Looker Studio, the analysis transforms raw records into a clear picture of performance, behavior, and risk exposure.
 
