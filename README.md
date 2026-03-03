@@ -16,7 +16,7 @@ Is growth healthy and sustainable?
 
 Where are the hidden pockets of risk that could threaten stability?
 
-## The objective was to evaluate portfolio performance and uncover patterns that influence repayment outcomes and credit risk distribution.
+### The objective was to evaluate portfolio performance and uncover patterns that influence repayment outcomes and credit risk distribution.
 
 ## Understanding the Data
 
