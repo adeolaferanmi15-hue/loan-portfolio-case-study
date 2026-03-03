@@ -38,7 +38,7 @@ With a clean foundation, the exploration began.
 
 ## Exploring the Portfolio
 
-The dashboard was designed as a guided investigation across three analytical views — each answering a different business question.
+The dashboard was designed as a guided investigation across three analytical views, each answering a different business question.
 
 ### Executive Overview — What is the overall health of the portfolio?
 
